@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQ0L6MmvAOSez1sjbP0MdWZDAnClKXkS/QUQHJI99UVAf/jGVO3h3yva5DDikgqbNt1L2+9a2Xt235VS5IQC/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiz_\\Desktop\\PastaEstudos\\Clean Archteture\\Clean_Arq\\CleanArchMvc\\CleanArchMVC.Domain\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiz_\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\luiz_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\luiz_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
